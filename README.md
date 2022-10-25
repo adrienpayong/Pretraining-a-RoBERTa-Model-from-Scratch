@@ -5,3 +5,7 @@ RoBERTa is another interesting and popular variant of BERT. Researchers observed
 - Remove the NSP task and train using only the MLM task.
 - Train with a large batch size.
 - Use byte-level BPE (BBPE) as a tokenizer.
+
+Follow this [link](https://github.com/adrienpayong/Pretraining-a-RoBERTa-Model-from-Scratch/blob/main/Pretraining_a_RoBERTa_Model_from_Scratch.ipynb) to see how to pretraina RoBERTa Model from Scratch
+
+
